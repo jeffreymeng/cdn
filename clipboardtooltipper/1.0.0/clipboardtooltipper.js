@@ -1,4 +1,4 @@
-/* Clipboard.js Tooltipper utility by Jeffrey Meng. Requires bootstrap 4.0.0 and clipboard.js. | MIT License | archive.jeffkmeng.com/programming/library/clipboardtooltipper/s */
+/* Clipboard.js Tooltipper utility by Jeffrey Meng. Requires bootstrap 4.0.0 and clipboard.js. | MIT License | archive.jeffkmeng.com/programming/library/clipboardtooltipper/ */
 window.clipboardTooltipper = {
     init: function (selector) {
         var clipboard = new ClipboardJS(selector, {
